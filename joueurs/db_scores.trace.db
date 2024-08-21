@@ -1,0 +1,3 @@
+2024-08-18 22:13:41.652759+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SCORE_JOUEUR" not found (this database is empty); SQL statement:
+select sj1_0.id,sj1_0.joueur,sj1_0.score from score_joueur sj1_0 [42104-224]
